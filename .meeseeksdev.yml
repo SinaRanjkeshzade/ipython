@@ -2,6 +2,7 @@ users:
     LucianaMarques:
         can:
             - tag
+            
 special:
   everyone:
     can: 
